@@ -30,4 +30,4 @@ You'll also need:
 - Get an overview of all options by simply running `python psd.py --help`
 
 ## Contact
-For any questions about (running) the system, feel free to contact me at hessel.haagsma@rug.nl
+For any questions about (running) the system, feel free to contact me.
